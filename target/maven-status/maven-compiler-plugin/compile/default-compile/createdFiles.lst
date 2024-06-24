@@ -1,0 +1,12 @@
+com\emergentes\model\Propiedad.class
+com\emergentes\model\Contrato.class
+com\emergentes\Servlet\AgenteServlet.class
+com\emergentes\Servlet\ClienteServlet.class
+com\emergentes\model\Agente.class
+com\emergentes\Servlet\ContratoServlet.class
+com\emergentes\model\Transaccion.class
+com\emergentes\Servlet\TransaccionServlet.class
+com\emergentes\Servlet\VisitaServlet.class
+com\emergentes\model\Visita.class
+com\emergentes\Servlet\PropiedadServlet.class
+com\emergentes\model\Cliente.class
